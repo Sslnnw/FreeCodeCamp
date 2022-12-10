@@ -1,0 +1,2 @@
+# FreeCodeCamp
+Notes for freecodecamp
